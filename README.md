@@ -2,7 +2,7 @@
 
 ## Data 
 
-Consultar las siguientes referencias para las diversas fuentes de datos:
+Consultar las siguientes referencias para las diversas fuentes de datos ya que las ignoramos en este repositorio:
 
 ### Accidentes
 https://www.inegi.org.mx/temas/accidentes/#herramientas
